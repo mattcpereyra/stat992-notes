@@ -22,3 +22,7 @@ Nah.
 # then `git branch` to print current branch
 *git push -u origin 
 # origin is an alias for the `git@github.com...` ssh
+
+# New branches will appear below this line
+# maybe this branch is called "grep"
+# because it contains info about "grep"
