@@ -12,3 +12,13 @@ also pi is pretty cool
 zero is not a number, but people think it is. Does zero even exist?
 ..
 Nah. 
+
+# Useful commands
+*git log --graph --pretty=oneline
+*git checkout
+*git checkout master
+*git branch
+# ex: `git branch bugfix`
+# then `git branch` to print current branch
+*git push -u origin 
+# origin is an alias for the `git@github.com...` ssh
