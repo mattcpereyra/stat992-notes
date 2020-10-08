@@ -20,7 +20,8 @@ Nah.
 *git branch
 # ex: `git branch bugfix`
 # then `git branch` to print current branch
-*git push -u origin 
+# (but just for the first time fill in the branchname)
+*git push -u origin branchname
 # origin is an alias for the `git@github.com...` ssh
 
 # New branches will appear below this line
